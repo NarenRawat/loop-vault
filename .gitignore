@@ -1,0 +1,7 @@
+# Obsidian
+.obsidian/
+
+# Syntching
+.stversions/
+.stfolder/
+.stignore

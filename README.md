@@ -1,0 +1,1 @@
+# Obsidian Vault of LOOP
