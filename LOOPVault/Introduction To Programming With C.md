@@ -334,7 +334,7 @@ flowchart TD
         - `strlen(str)`
         - `strcpy(dest, src)`
         - `strncpy(dest, src, n)`
-        - `strcat(dest, src, n)`
+        - `strcat(dest, src)`
         - `strncat(dest, src, n)`
         - `strcmp(str1, str2)`
         - `strncmp(str1, str2, n)`
